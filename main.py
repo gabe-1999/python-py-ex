@@ -1,6 +1,6 @@
 
 def main(msg):
-	//No comment needed
+	#No comment needed
 	print(msg)
 	
 def secondFun():
